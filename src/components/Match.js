@@ -7,3 +7,5 @@ function Match() {
     </article>
   );
 }
+
+export default Match;
