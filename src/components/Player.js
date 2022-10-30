@@ -1,6 +1,6 @@
 function Player() {
   return (
-    <article>
+    <article className="Player">
       <h1>
         John <span>Secret</span> Doe
       </h1>
