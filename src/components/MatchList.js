@@ -1,3 +1,4 @@
+import matchData from '../data/matchData';
 import Match from './Match';
 
 function MatchList() {
